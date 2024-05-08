@@ -1,0 +1,1 @@
+# hf-image-classification-inference
